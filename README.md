@@ -12,7 +12,7 @@ An item of clothing like below,
 
 2. The output would look like below,
 
-![output image](onUserImage.jpg)
+![output image](onUser.jpg)
 
 ### Requirements
 
