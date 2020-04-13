@@ -1,6 +1,47 @@
 # Clothing Companion
 
+Online shopping is a stressful and time-consuming task. Buying the right size and clothing item
+requires a lot of judgment and adjustments. The current online shopping experience is amazing,
+but often leads to several unsatisfied customers.
+
+Clothing Companion is an innovative approach to online shopping. It allows the user to see
+how they look in a certain clothing item, make sure they have the right size and are satisfied with
+the final product when received.
+
+Users can pick a few clothing items they would like to purchase, with the augmented reality
+technology integrated into the system, visually see how they look in the chosen item and improve
+their online shopping experience. Leading to more satisfied customers. The solution uses image
+processing and augmented reality to map a piece of clothing onto a user. We were able to get an
+image mapped onto a photo taken by a user. This has the practical use of helping ecommerce
+clothing websites show their user’s how the clothing item would fit on them.
+
+This is the source code for the project we built.
+
 ## Front End
+
+We tested a lot of designs of our front end before we started developing the actual website. Most of our front end focuses more on the aspect of uploading an image and mapping a piece of clothing onto that image. We also created a front end that mimics a e-commerce website to show how it would integrate.
+
+Here are the final designs we had come up with:
+
+#### Proposed Front End Design Images
+
+1. Single item page
+
+![user image](/03_item_page.png)
+
+2. Upload an image
+
+![user image](/04_Upload_Image.png)
+
+![user image](/05_Upload_Image_%20processing.png)
+
+![user image](/06_Upload_Image%20Complete.png)
+
+3. Shown image
+
+![user image](/07_Shown_image.png)
+
+This is how we wanted out frontend to look. Due to the shortage of time and unfortunate occurance of events we were not able to complete it.
 
 ## Script
 
@@ -35,7 +76,6 @@ $ python topWearWrapper.py [path to user image] [path to apparel image] 1
 ```
 
 Follow the easy steps on the terminal to achieve your desired outcome. The image below represents the mask generated for the input image above. 
-
 
 ![grabcut output](/script/debug/grabcutOutput.png)
 
