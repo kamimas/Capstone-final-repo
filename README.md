@@ -1,5 +1,9 @@
 ## Clothing Companion
 
+### Front End
+
+### Scrpit
+
 This is the script for clothing companion. Due to schedule and coronavirus the script there has been heavily modified many times and inspirations have been taken from other sources. We truly believe that this project has great potential and future and given enough resources and time, a well-crafted product can be achieved. As the project requires us to make a final deliverable, this is our take at the project given the situation we are faced with.
 
 1. A user uploads an image like so,
@@ -14,11 +18,11 @@ An item of clothing like below,
 
 ![output image](/script/onUser.jpg)
 
-### Requirements
+#### Requirements
 
 The code requires `python 2.7`, `opencv` and `numpy` to run.
 
-### Usage
+#### Usage
 
 There are limitations and presumptions that are made before using this project, therefore it is recommended to use the example pictures as a guideline until further refineries are made to the code.
 
