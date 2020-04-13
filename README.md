@@ -8,11 +8,11 @@ This is the script for clothing companion. Due to schedule and coronavirus the s
 
 An item of clothing like below,
 
-![apparel image](apparel.jpg)
+![apparel image](/script/apparel.jpg)
 
 2. The output would look like below,
 
-![output image](onUser.jpg)
+![output image](/script/onUser.jpg)
 
 ### Requirements
 
@@ -33,7 +33,7 @@ $ python topWearWrapper.py [path to user image] [path to apparel image] 1
 Follow the easy steps on the terminal to achieve your desired outcome. The image below represents the mask generated for the input image above. 
 
 
-![grabcut output](debug/grabcutOutput.png)
+![grabcut output](/script/debug/grabcutOutput.png)
 
 Once the user has achieved masking through the script, a grabcut will be saved as a reference in the debug folder and now the user can run the script with the third argument being 0 and not having to go through the entire process again.
 
