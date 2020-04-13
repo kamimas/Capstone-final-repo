@@ -4,7 +4,7 @@ This is the script for clothing companion. Due to schedule and coronavirus the s
 
 1. A user uploads an image like so,
 
-![user image](input.jpg)
+![user image](/script/input.jpg)
 
 An item of clothing like below,
 
