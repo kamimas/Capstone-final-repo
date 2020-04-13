@@ -15,7 +15,7 @@ processing and augmented reality to map a piece of clothing onto a user. We were
 image mapped onto a photo taken by a user. This has the practical use of helping ecommerce
 clothing websites show their user’s how the clothing item would fit on them.
 
-This is the source code for the project we built.
+This is the source code for the project we built. Due to lack of time and unfortunate circumstances we were not able to connect our back end and front end. However, here are both the components of our project and how we would want it to look and function.
 
 ## Front End
 
@@ -32,8 +32,6 @@ Here are the final designs we had come up with:
 2. Upload an image
 
 ![user image](/04_Upload_Image.png)
-
-![user image](/05_Upload_Image_%20processing.png)
 
 ![user image](/06_Upload_Image%20Complete.png)
 
